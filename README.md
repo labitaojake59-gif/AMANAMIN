@@ -29,7 +29,7 @@ local themes = {
 }
 
 local screenGui = new("ScreenGui", {
-	Name = "MONSY_GUI",
+	Name = "JAKE_GUI",
 	ResetOnSpawn = false,
 	Parent = playerGui,
 	DisplayOrder = 1000,
